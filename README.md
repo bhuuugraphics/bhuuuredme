@@ -1,7 +1,5 @@
-[![MasterHead]()https://mail.google.com/mail/u/0?ui=2&ik=4960e81b96&attid=0.1&permmsgid=msg-a:r3028121881487860452&th=1935d112191d790c&view=att&disp=safe&realattid=f_m3vymdo61&zw
 <h1 align="center">Hi 👋, I'm Bhuvaneswari.TATAKULA</h1>
 <h3 align="center">i'm a selftaught graphic designer</h3>
-(img align="right" alt="Coding" width="400" srchttps://www.google.com/url?sa=i&url=https%3A%2F%2Fdesigntemplate.io%2Fimages%2Fgirl-using-laptop-colorful-3d-picture-cartoon-illustration&psig=AOvVaw2RQdU4oYLNWctEUzVhioi0&ust=1732520182250000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCz1O_U9YkDFQAAAAAdAAAAABAE="")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuuugraphics&label=Profile%20views&color=0e75b6&style=flat" alt="bhuuugraphics" /> </p>
